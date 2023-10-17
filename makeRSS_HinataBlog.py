@@ -51,4 +51,4 @@ for url_and_xml in url_and_xmls:
     # XMLファイルに保存
     tree = ET.ElementTree(root)
     ET.indent(tree, space="  ")
-    tree.write(xml_file_path, encoding='utf-8', xml_declaration=True)
+    tree.write(xml_file_name, encoding='utf-8', xml_declaration=True)
