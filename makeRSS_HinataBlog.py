@@ -39,7 +39,7 @@ for url_and_xml in url_and_xmls:
     root = ET.Element("rss", version="2.0")
     channel = ET.SubElement(root, "channel")
     ET.SubElement(channel, "title").text = "Latest Blogs"
-    ET.SubElement(channel, "description").text = "最新のブログ投稿"
+    ET.SubElement(channel, "description").text = "日向坂46 - 最新のブログ投稿"
 
     for article in new_articles:
         item = ET.SubElement(channel, "item")
