@@ -1,6 +1,7 @@
 import requests
 import re
 import xml.etree.ElementTree as ET
+import html
 
 url_and_xmls = [
     {
@@ -43,8 +44,8 @@ for url_and_xml in url_and_xmls:
 
     for article in new_articles:
         item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = article['title']
-        ET.SubElement(item, "link").text = article['link']
+        ET.SubElement(item, "title").text = html.unescape(article['title'])  # ここを変えたよ
+        ET.SubElement(item, "link").text = html.unescape(article['link'])  # 必要ならここも
         ET.SubElement(item, "pubDate").text = article['date']
 
     # XMLファイルに保存
