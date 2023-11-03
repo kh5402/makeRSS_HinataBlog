@@ -4,6 +4,11 @@
     <title>Latest Blogs</title>
     <description>日向坂46 - 最新のブログ投稿</description>
     <item>
+      <title>新参者</title>
+      <link>https://www.hinatazaka46.com/s/official/diary/detail/53223?ima=0000&amp;cd=member</link>
+      <pubDate>2023.11.3 12:01</pubDate>
+    </item>
+    <item>
       <title>完璧な夜</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/53128?ima=0000&amp;cd=member</link>
       <pubDate>2023.10.29 13:28</pubDate>
@@ -97,11 +102,6 @@
       <title>ともだち</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/51023?ima=0000&amp;cd=member</link>
       <pubDate>2023.7.23 17:45</pubDate>
-    </item>
-    <item>
-      <title>いちばんぼし</title>
-      <link>https://www.hinatazaka46.com/s/official/diary/detail/50970?ima=0000&amp;cd=member</link>
-      <pubDate>2023.7.18 15:45</pubDate>
     </item>
   </channel>
 </rss>
