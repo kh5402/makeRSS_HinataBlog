@@ -4,6 +4,11 @@
     <title>Latest Blogs</title>
     <description>日向坂46 - 最新のブログ投稿</description>
     <item>
+      <title>まごころ</title>
+      <link>https://www.hinatazaka46.com/s/official/diary/detail/55014?ima=0000&amp;cd=member</link>
+      <pubDate>2024.3.10 18:03</pubDate>
+    </item>
+    <item>
       <title>この画像よかったらどうぞ…！</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/54863?ima=0000&amp;cd=member</link>
       <pubDate>2024.2.28 13:22</pubDate>
@@ -97,11 +102,6 @@
       <title>きょうは近めから失礼します。</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/53530?ima=0000&amp;cd=member</link>
       <pubDate>2023.11.19 17:56</pubDate>
-    </item>
-    <item>
-      <title>いつもありがとうございます。</title>
-      <link>https://www.hinatazaka46.com/s/official/diary/detail/53415?ima=0000&amp;cd=member</link>
-      <pubDate>2023.11.13 21:45</pubDate>
     </item>
   </channel>
 </rss>
