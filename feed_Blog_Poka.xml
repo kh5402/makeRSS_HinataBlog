@@ -4,6 +4,11 @@
     <title>Latest Blogs</title>
     <description>日向坂46 - 最新のブログ投稿</description>
     <item>
+      <title>おひさしぶりね</title>
+      <link>https://www.hinatazaka46.com/s/official/diary/detail/59434?ima=0000&amp;cd=member</link>
+      <pubDate>2025.4.2 23:59</pubDate>
+    </item>
+    <item>
       <title>ダブルなしあわせ</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/59133?ima=0000&amp;cd=member</link>
       <pubDate>2025.2.23 22:24</pubDate>
@@ -97,11 +102,6 @@
       <title>おげんきですか（再）</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/58029?ima=0000&amp;cd=member</link>
       <pubDate>2024.11.14 22:24</pubDate>
-    </item>
-    <item>
-      <title>おげんきですか</title>
-      <link>https://www.hinatazaka46.com/s/official/diary/detail/57931?ima=0000&amp;cd=member</link>
-      <pubDate>2024.11.4 22:28</pubDate>
     </item>
   </channel>
 </rss>
