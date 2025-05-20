@@ -4,6 +4,11 @@
     <title>Latest Blogs</title>
     <description>日向坂46 - 最新のブログ投稿</description>
     <item>
+      <title>せかいのはるはる</title>
+      <link>https://www.hinatazaka46.com/s/official/diary/detail/60135?ima=0000&amp;cd=member</link>
+      <pubDate>2025.5.20 20:56</pubDate>
+    </item>
+    <item>
       <title>らびゅーあせるふ</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/60116?ima=0000&amp;cd=member</link>
       <pubDate>2025.5.19 17:21</pubDate>
@@ -97,11 +102,6 @@
       <title>THE LEGEND</title>
       <link>https://www.hinatazaka46.com/s/official/diary/detail/58513?ima=0000&amp;cd=member</link>
       <pubDate>2024.12.31 12:56</pubDate>
-    </item>
-    <item>
-      <title>2024年ありがとう大感謝祭</title>
-      <link>https://www.hinatazaka46.com/s/official/diary/detail/58477?ima=0000&amp;cd=member</link>
-      <pubDate>2024.12.30 11:30</pubDate>
     </item>
   </channel>
 </rss>
